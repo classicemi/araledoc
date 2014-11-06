@@ -41,3 +41,4 @@ Arale
 
 ## 目录
 01. [Class](https://github.com/classicemi/araledoc/issues/1)
+02. [Events](https://github.com/classicemi/araledoc/issues/2)
