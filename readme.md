@@ -39,6 +39,8 @@ Arale
 ## 这是什么项目
 本项目的主题即是Arale类库的源码分析。本人也是边学边记录，把自己的理解写下来，在全部写完后，将会对内容进行一次整理。为了方便与各位进行交流，除本篇外，所有的源码分析文章会采用和我的博客一样的存放方式——放在项目的issue中，便于读者即时回复和交流。为了便于查找，本系列的目录如下，可点击链接前往具体内容。
 
+本系列只会针对Arale的一些主要的基础模块进行分析，一些UI模块实际上是基于Arale的基础进行的衍生开发产品，对于理解Arale本身的架构思想帮助不大。
+
 ## 目录
 01. [Class](https://github.com/classicemi/araledoc/issues/1)
 02. [Events](https://github.com/classicemi/araledoc/issues/2)
